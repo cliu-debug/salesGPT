@@ -151,7 +151,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-repo/salesgpt.git
+git clone https://github.com/cliu-debug/salesGPT.git
 cd salesgpt
 ```
 
@@ -291,13 +291,13 @@ salesgpt/
 - [ ] AI 话术训练自定义
 
 ### 欢迎贡献
-有好的想法？欢迎提交 [Issue](https://github.com/your-repo/salesgpt/issues) 或 [PR](https://github.com/your-repo/salesgpt/pulls)！
+有好的想法？欢迎提交 [Issue](https://github.com/cliu-debug/salesGPT/issues) 或 [PR](https://github.com/cliu-debug/salesGPT/pulls)！
 
 ## 📞 交流
 
 <p>
-  <a href="https://github.com/your-repo/salesgpt/issues">问题反馈</a> · 
-  <a href="https://github.com/your-repo/salesgpt/discussions">功能讨论</a>
+  <a href="https://github.com/cliu-debug/salesGPT/issues">问题反馈</a> · 
+  <a href="https://github.com/cliu-debug/salesGPT/discussions">功能讨论</a>
 </p>
 
 ## 📝 更新日志
@@ -317,7 +317,7 @@ salesgpt/
 
 ## ❤️ 贡献者
 
-[![Contributors](https://contrib.rocks/image?repo=your-repo/salesgpt)](https://github.com/your-repo/salesgpt/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=cliu-debug/salesGPT)](https://github.com/cliu-debug/salesGPT/graphs/contributors)
 
 ---
 

@@ -32,11 +32,9 @@
 
 ## 📸 功能展示
 
-> 📷 请添加项目截图到 `docs/images/` 目录
-
-| 仪表盘 | 客户管理 | AI 分析 |
-|:------:|:--------:|:-------:|
-| Dashboard | Clients | AI Analysis |
+| 仪表盘 | 客户管理 |
+|:------:|:--------:|
+| ![Dashboard](docs/images/1.png) | ![Clients](docs/images/2.png) |
 
 ---
 
